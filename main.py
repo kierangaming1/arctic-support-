@@ -657,7 +657,7 @@ async def on_message(message):
         await client.send_message(
             message.channel,
             "Okay, invite me to your Server:\n"
-            "https://discordapp.com/oauth2/authorize?client_id=360801859461447700&scope=bot&permissions=19456"
+            "https://discordapp.com/oauth2/authorize?client_id=487688486367920139&scope=bot&permissions=19456"
         )
 
     elif message.content.lower().startswith((prefix + 'info', prefix + 'about')):
