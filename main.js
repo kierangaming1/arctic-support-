@@ -697,8 +697,8 @@ async def on_message(message):
         )
         infotext.add_field(
             name="Developed in:",
-            value="Language: **Python3.6**\n"
-                  "Library: **discord.py** (0.16.8)\n"
+            value="Language: **Java**\n"
+                  "Library: **discord.js** (0.16.8)\n"
         )
         infotext.add_field(
             name="Commands",
