@@ -8,7 +8,7 @@ import asyncio
 
 client = discord.Client()
 
-bot_admins = ['269959141508775937']
+bot_admins = ['263694962418384897']
 
 spam_protector = {}
 
@@ -674,24 +674,24 @@ async def on_message(message):
             title="Support-Manager",
             description="About the bot.",
             color=0x37ceb2,
-            url="https://liba001.github.io/Support-Manager/"
+            url="N/A"
         )
         infotext.set_author(
-            name="Linus Bartsch | LiBa01#8817",
-            url="https://liba001.github.io/",
-            icon_url="https://avatars0.githubusercontent.com/u/30984789?s=460&v=4"
+            name="kierangaming1 | kierangaming1#8848",
+            url="https://github.com/kierangaming1/",
+            icon_url=""
         )
         infotext.set_thumbnail(
             url="https://images.discordapp.net/avatars/360801859461447700/695877fa3289fae03ff5770e7067e8c6.png?size=512"
         )
         infotext.add_field(
             name="Developer",
-            value="Name: **Linus Bartsch**\n"
-                  "Discord: **LiBa01#8817**\n"
-                  "GitHub: [LiBa001](https://github.com/LiBa001)\n"
-                  "I'm also at [Discordbots.org](https://discordbots.org/user/269959141508775937).\n"
+            value="Name: **kierangaming1**\n"
+                  "Discord: **kierangaming1#8848**\n"
+                  "GitHub: [LiBa001](https://github.com/kierangaming1)\n"
+                  "I'm also at [Discordbots.org](https://discordbots.org/user/263694962418384897).\n"
                   "I'd be very happy if you'd support me on "
-                  "[**Patreon**](https://www.patreon.com/user?u=8320690). :heart:\n"
+                  "[**Roblox**](https://roblox.com/kierangaming1). :heart:\n"
                   "*Concept idea by **MrBlack#8359***",
             inline=True
         )
